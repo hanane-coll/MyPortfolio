@@ -1,0 +1,161 @@
+{
+    "basic_info": {
+      "description_header": "Salut",
+      "description": "👋 Je suis Yacoubi Hanane, 21 ans. Je suis étudiant en informatique à l'ENSAH. Je m'intéresse au domaine car il me permet d'appliquer mes connaissances en mathématiques, en sciences et en programmation pour résoudre des problèmes passionnants et précieux. Objectivement, je me place quelque part autour des développeurs high-junior / low-mid, donc j'ai encore un long chemin à parcourir. J'aime m'enseigner de nouvelles choses. J'ai commencé par la programmation au lycée et au collège, puis j'ai appris le développement web, les structures de données, l'analyse d'algorithmes et bien d'autres. Maintenant que j'ai goûté à l'enseignement par moi-même, je ne peux plus m'arrêter. C'est avantageux, et j'espère en apprendre davantage sur le domaine au fur et à mesure que ma carrière progresse.",
+      "section_name": {
+        "about": "À propos de moi",
+        "projects": "Projets",
+        "skills": "Compétences",
+        "experience": "Expérience"
+      }
+    },
+    "projects": [
+      {
+        "title": "DENTALCARE Web App",
+        "startDate": "2022",
+        "description": "DENTALCARE est une application web qui permet de gérer efficacement un cabinet dentaire, d’automatiser et de faciliter ce processus, approcher un gain de temps et d’organisation ainsi plusieurs services pour bien gérer les aspects de ce domaine.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p3.jpg",
+          "images/portfolio/animal-shelter/p4.jpg",
+          "images/portfolio/animal-shelter/p5.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySql"
+          }
+        ]
+      },
+      {
+        "title": "NEXTFIX",
+        "startDate": "2022",
+        "description": "NEXTFIX est un clone de netflix, son objectif principal est de me mettre dans un scénario du monde réel où je dois créer une application frontale qui récupère les données de l'API existante.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg",
+          "images/portfolio/photography/p3.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Détection d'objet",
+        "startDate": "2021",
+        "description": "Projet de détection d'objets qui traite de la détection d'instances de différentes classes d'objets (comme une personne, un livre, une chaise, une voiture, un bus, etc.) dans une image ou une vidéo capturée numériquement. En utilisant Deep Learning, OpenCV et Python-YOLO.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p3.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-opencv-plain",
+            "name": "OpenCV"
+          }
+        ]
+      }
+    ],
+  "experience": [
+    {
+      "company": "Stage au sein de la société InfiniDigital à Casablanca, Maroc",
+      "title": "Développement d'une application web (DENTALCARE)",
+      "years": "07.2022 - 08.2022",
+      "mainTech": [
+        "SpringBoot"
+      ],
+      "technologies": [
+        "SpringBoot",
+        "Thymeleaf",
+        "JavaScript",
+        "Bootstrap",
+        "mysql",
+        "html",
+        "css"
+      ]
+    },
+    {
+      "company": "The hong kong university of science and technology",
+      "title": "CERTIFICAT - Développement Web Front-End avec React",
+      "years": "08.2022",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        "React"
+      ]
+    },
+    {
+      "company": "LearnQuest",
+      "title": "CERTIFICAT - Spring ecosystem and core",
+      "years": "08.2022",
+      "mainTech": [
+        "Spring"
+      ],
+      "technologies": [
+        "Spring"
+      ]
+    },
+
+    {
+      "company": "Projet scolaire",
+      "title": "Application Web de gestion des notes des étudiants ",
+      "years": "05.2022 - 06.2022",
+      "mainTech": [
+        "SpringBoot"
+      ],
+      "technologies": [
+        "SpringBoot",
+        "JSTL",
+        "JSP",
+        "Hibernate",
+        "mysql"
+      ]
+    },
+    {
+      "company": "DataCamp",
+      "title": "CERTIFICAT - Intermediate/OOP Python",
+      "years": "10.2021",
+      "mainTech": [
+        "Python"
+      ],
+      "technologies": [
+        "Python",
+        "OOP"
+      ]
+    },
+    {
+      "company": "Stage au sein de la société Synergie Media à Agadir, Maroc",
+      "title": "Développement d'un plugin WordPress (WOOCOMMERCE-CUSTPLACE)",
+      "years": "08.2021 - 09.2021",
+      "mainTech": [
+        "Wordpress"
+      ],
+      "technologies": [
+        "Wordpress",
+        "PHP",
+        "JavaScript"
+      ]
+    }
+  ]
+}
