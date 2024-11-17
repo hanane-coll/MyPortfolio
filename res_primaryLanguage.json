@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Yacoubi Hanane, 21 years old. I'm a computer science student at ENSAH. I'm interested in the field because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems. Objectively, I'm placing myself somewhere around high-junior / low-mid dev, so I still have a long way to go. I love teaching myself new things. I started with programming in high school and college, then learned about web development, data structures, analysis of algorithms and many more. Now that i've gotten a taste of teaching myself, I can't stop. It's advantageous, and i hope to learn more about the field as my career progresses.",
+      "description_header": "Hi there! 👋",
+      "description": "I'm Hanane Yacoubi, 23 years old, and freshly armed with a Master’s degree in Software Development Engineering. With a solid foundation in web development, algorithm design, and software engineering, I’m driven by the thrill of solving puzzles and building solutions that make life easier—or at least cooler. From designing clean, efficient code to tackling complex algorithms, my journey has been fueled by curiosity, persistence, and, of course, a lot of caffeine 💻☕. I’m passionate about creating innovative solutions and constantly pushing myself to learn and grow in this ever-evolving field.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
