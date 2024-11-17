@@ -77,9 +77,41 @@
       }
     ],
     "experience": [
+        {
+        "company": "Sopra Steria, Aix-en-Provence, France",
+        "title": "Internship - Development of functionalities for Onet",
+        "years": "04.2024 - 08.2024",
+        "mainTech": [
+          "SpringBoot",
+          "Angular"
+        ],
+        "technologies": [
+          "SpringBoot",
+          "Struts",
+          "Angular",
+          "Java",
+          "JavaScript"
+        ]
+      },
+         {
+        "company": "VISEO, Casablanca, Morocco",
+        "title": "Internship - Development for L’Oréal Paris and Balmain Paris",
+        "years": "03.2023 - 07.2023",
+        "mainTech": [
+          "Java",
+          "React"
+        ],
+        "technologies": [
+          "Java",
+          "React",
+          "Fluent Commerce",
+          "GraphQL",
+          "JSON"
+        ]
+      },
       {
-        "company": "Internship within the InfiniDigital company in Casablanca, Morocco",
-        "title": "Development of a web application (DENTALCARE)",
+        "company": "InfiniDigital, Casablanca, Morocco",
+        "title": "Internship - Development of a web application (DENTALCARE)",
         "years": "07.2022 - 08.2022",
         "mainTech": [
           "SpringBoot"
@@ -145,8 +177,8 @@
         ]
       },
       {
-        "company": "Internship within the Synergie Media company in Agadir, Morocco",
-        "title": "Development of a WordPress plugin (WOOCOMMERCE-CUSTPLACE)",
+        "company": "Synergie Media, Agadir, Morocco",
+        "title": "Internship - Development of a WordPress plugin (WOOCOMMERCE-CUSTPLACE)",
         "years": "08.2021 - 09.2021",
         "mainTech": [
           "Wordpress"
