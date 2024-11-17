@@ -77,6 +77,38 @@
       }
     ],
   "experience": [
+      {
+      "company": "Stage au sein de Sopra Steria, Aix-en-Provence, France",
+      "title": "Développement de fonctionnalités pour Onet",
+      "years": "04.2024 - 08.2024",
+      "mainTech": [
+        "SpringBoot",
+        "Angular"
+      ],
+      "technologies": [
+        "SpringBoot",
+        "Struts",
+        "Angular",
+        "Java",
+        "JavaScript"
+      ]
+    },
+       {
+      "company": "Stage au sein de la société VISEO, Casablanca, Maroc",
+      "title": "Développement pour L’Oréal Paris et Balmain Paris",
+      "years": "03.2023 - 07.2023",
+      "mainTech": [
+        "Java",
+        "React"
+      ],
+      "technologies": [
+        "Java",
+        "React",
+        "Fluent Commerce",
+        "GraphQL",
+        "JSON"
+      ]
+    },
     {
       "company": "Stage au sein de la société InfiniDigital à Casablanca, Maroc",
       "title": "Développement d'une application web (DENTALCARE)",
